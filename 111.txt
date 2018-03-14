@@ -14,5 +14,3 @@
 88
 99
 00
-changes done at GitHub
-changes by atr at ubuntu
